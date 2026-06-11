@@ -1,4 +1,4 @@
-altair==5.5.0
+"""altair==5.5.0
 annotated-doc==0.0.4
 annotated-types==0.7.0
 anyio==4.12.1
@@ -115,4 +115,12 @@ websockets==15.0.1
 zipp==3.23.1
 langchain
 langchain-google-genai
-openai-whisper
+openai-whisper"""
+streamlit==1.50.0
+pandas==2.3.3
+plotly==6.8.0
+requests==2.32.5
+pillow==11.3.0
+python-dotenv==1.2.1
+langchain
+langchain-google-genai
